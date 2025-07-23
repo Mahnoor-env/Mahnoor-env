@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mah Noor
 
-<!--
-**Mahnoor-env/Mahnoor-env** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿 Environmental Researcher with 3+ years of experience in policy analysis, geospatial mapping, and climate data. Passionate about building transparent, data-driven solutions for sustainability, health, and urban resilience.
 
-Here are some ideas to get you started:
+🔬 Areas I'm exploring:
+- Air pollution forecasting with Python
+- Spatial mapping of transboundary plastic waste (Basel Convention)
+- Urban sustainability using QGIS and remote sensing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools I work with:
+Python · SPSS · R · QGIS · Google Earth Engine · HAZ-Scanner · ArcGIS
+
+📂 Ongoing Projects:
+- `Islamabad Air Quality Dashboard` *(coming soon)*  
+- `Plastic Waste Risk Map using QGIS`  
+- `Satellite-Based Forest Change Detection (WWF Pakistan)`
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/noor-meteorology)
